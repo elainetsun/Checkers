@@ -1,4 +1,5 @@
 # CheckersAI
+A self-learning AI checkers player
 
 Members:
 * Joseph Sweeney
